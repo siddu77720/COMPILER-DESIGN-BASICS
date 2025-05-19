@@ -60,3 +60,5 @@ Creating a lexical analyzer is an essential step to understanding how programmin
 This project bridges theory and practice in compiler design, giving you firsthand experience in building the backbone of many software tools we use daily. Plus, the skills you gain here — file handling, string manipulation, pattern recognition — are useful across countless programming and development scenarios. 🌟💻
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ccafe8a8-fe57-4d7d-bc2f-c937312cd69f)
